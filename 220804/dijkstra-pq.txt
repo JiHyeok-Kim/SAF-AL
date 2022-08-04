@@ -1,0 +1,15 @@
+1. 그래프 구성
+2. queue 생성 -> 필요한 data준비
+                        priority_queue
+                        dist
+                        used
+3. 시작점 세팅
+
+4. now꺼내기
+5. next -> next
+6. next를 queue에 추가
+
+7. 4~6단계 반복
+
+BFS : 먼저 찾은 점을 먼저 처리
+dijkstra : 가까운 점을 먼저 처리
