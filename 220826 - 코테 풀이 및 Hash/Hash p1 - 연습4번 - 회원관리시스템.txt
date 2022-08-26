@@ -1,0 +1,35 @@
+34
+reg KFC 1234
+reg MC 7777
+reg KFC 1234
+login KFC 1234
+login MC 4931
+login MC 7777
+login KFC 1234
+login QWE 321
+change KFC 1234 77
+change KFC 77 99
+change IRQ 12 56
+change KFC 1234 777
+change MC 7777 7777
+logout KFC
+logout KFC
+logout ABC
+login KFC 99
+logout KFC
+bye ABC
+bye KFC
+login KFC 99
+bye KFC
+change KFC 777 1547
+change KFC 99 1547
+logout KFC
+bye KFC
+login KFC 99
+reg KFC 999999
+bye KFC
+login KFC 99
+login KFC 999999
+change KFC 999999 4567
+bye MC
+bye KFC

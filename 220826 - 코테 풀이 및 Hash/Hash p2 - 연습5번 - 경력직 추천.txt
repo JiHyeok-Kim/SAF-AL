@@ -1,0 +1,33 @@
+32
+recommand 1 AAA
+recommand 1 BBB
+recommand 1 CCC
+recommand 1 DDD
+recommand 1 EEE
+recommand 2 QQ1
+recommand 2 QQ2
+recommand 2 QQ3
+recommand 2 QQ4
+recommand 900000000 WW1
+recommand 900000000 WW2
+recommand 900000000 EEE
+recommand 900000000 QQ2
+recommand 3 EEE
+recommand 4 EEE
+recommand 5 EEE
+recommand 5 QQ4
+recommand 1 QQ2
+print 1
+print 2
+print 3
+print 4
+print 5
+print 900000000
+whois WW1
+whois WW2
+whois QQ1
+whois QQ2
+whois QQ3
+whois QQ4
+whois EEE
+whois AAA
